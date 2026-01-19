@@ -2,7 +2,7 @@
   {
     "protocol": "Aave",
     "chain": "Ethereum",
-    "tvl": "1784.5935717975658029"
+    "tvl": "1784.61065831394955795"
   },
   {
     "protocol": "Asymmetry",
@@ -17,12 +17,12 @@
   {
     "protocol": "Curve",
     "chain": "Ethereum",
-    "tvl": "782.082198753984442998"
+    "tvl": "771.603277177720637091"
   },
   {
     "protocol": "Gearbox",
     "chain": "Ethereum",
-    "tvl": "0.303217119656765532"
+    "tvl": "0.303226586151624649"
   },
   {
     "protocol": "Merkl",
@@ -37,12 +37,12 @@
   {
     "protocol": "Uniswap",
     "chain": "Ethereum",
-    "tvl": "35.914135460389137204"
+    "tvl": "37.686444855653630297"
   },
   {
     "protocol": "Yield Basis",
     "chain": "Ethereum",
-    "tvl": "550.465107218687876946"
+    "tvl": "543.318878107034901474"
   },
   {
     "protocol": "Aave",
@@ -52,7 +52,7 @@
   {
     "protocol": "Curve",
     "chain": "Arbitrum",
-    "tvl": "21.71621114805646232"
+    "tvl": "20.94821874565530545"
   },
   {
     "protocol": "Nerite",
@@ -62,22 +62,22 @@
   {
     "protocol": "Uniswap",
     "chain": "Arbitrum",
-    "tvl": "10.325586255281768148"
+    "tvl": "9.747553250287986742"
   },
   {
     "protocol": "Aave",
     "chain": "Base",
-    "tvl": "8.126075857433925542"
+    "tvl": "8.126087033404876222"
   },
   {
     "protocol": "Aerodrome",
     "chain": "Base",
-    "tvl": "17.604719384679268532"
+    "tvl": "17.398382409415114847"
   },
   {
     "protocol": "Curve",
     "chain": "Base",
-    "tvl": "6.36036044309254368"
+    "tvl": "0.000004809904049145"
   },
   {
     "protocol": "Curve",
@@ -87,7 +87,7 @@
   {
     "protocol": "Uniswap",
     "chain": "Optimism",
-    "tvl": "0.747482424891502053"
+    "tvl": "0.361375976412597409"
   },
   {
     "protocol": "Velodrome",
@@ -97,7 +97,7 @@
   {
     "protocol": "Ekubo",
     "chain": "Starknet",
-    "tvl": "22.799664803949927955"
+    "tvl": "21.797556137034318947"
   },
   {
     "protocol": "Endur",
@@ -137,6 +137,6 @@
   {
     "protocol": "Ember",
     "chain": "Sui",
-    "tvl": "85.58683028"
+    "tvl": "85.56703185"
   }
 ]
