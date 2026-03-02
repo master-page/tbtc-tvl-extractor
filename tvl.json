@@ -2,7 +2,7 @@
   {
     "protocol": "Aave",
     "chain": "Ethereum",
-    "tvl": "1788.712164782495872454"
+    "tvl": "1788.956060784993163727"
   },
   {
     "protocol": "Asymmetry",
@@ -17,12 +17,12 @@
   {
     "protocol": "Curve",
     "chain": "Ethereum",
-    "tvl": "1249.721681227765983756"
+    "tvl": "1263.251678698939938907"
   },
   {
     "protocol": "Gearbox",
     "chain": "Ethereum",
-    "tvl": "0.303861753911133863"
+    "tvl": "0.303870875862554423"
   },
   {
     "protocol": "Merkl",
@@ -37,22 +37,22 @@
   {
     "protocol": "Uniswap",
     "chain": "Ethereum",
-    "tvl": "99.452813100626679789"
+    "tvl": "100.645574324819399846"
   },
   {
     "protocol": "Yield Basis",
     "chain": "Ethereum",
-    "tvl": "1064.710899756455539899"
+    "tvl": "1074.491330147186234902"
   },
   {
     "protocol": "Aave",
     "chain": "Arbitrum",
-    "tvl": "20.993719780801076909"
+    "tvl": "20.993894500801076909"
   },
   {
     "protocol": "Curve",
     "chain": "Arbitrum",
-    "tvl": "16.953931118381920973"
+    "tvl": "17.061117871669948918"
   },
   {
     "protocol": "Nerite",
@@ -62,22 +62,22 @@
   {
     "protocol": "Uniswap",
     "chain": "Arbitrum",
-    "tvl": "15.184812565086796789"
+    "tvl": "15.882549431844213847"
   },
   {
     "protocol": "Aave",
     "chain": "Base",
-    "tvl": "13.551500843341479453"
+    "tvl": "13.675279445236528729"
   },
   {
     "protocol": "Aerodrome",
     "chain": "Base",
-    "tvl": "15.856227700026240105"
+    "tvl": "17.277557235125047662"
   },
   {
     "protocol": "Curve",
     "chain": "Base",
-    "tvl": "2.383297576146351858"
+    "tvl": "3.410621784285989984"
   },
   {
     "protocol": "Curve",
@@ -87,7 +87,7 @@
   {
     "protocol": "Uniswap",
     "chain": "Optimism",
-    "tvl": "0.430296778670793484"
+    "tvl": "0.467852237891805219"
   },
   {
     "protocol": "Velodrome",
@@ -97,7 +97,7 @@
   {
     "protocol": "Ekubo",
     "chain": "Starknet",
-    "tvl": "26.171330833426201128"
+    "tvl": "26.169678621383154864"
   },
   {
     "protocol": "Endur",
@@ -137,6 +137,6 @@
   {
     "protocol": "Ember",
     "chain": "Sui",
-    "tvl": "46.0663715"
+    "tvl": "46.06653627"
   }
 ]
