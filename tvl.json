@@ -2,7 +2,7 @@
   {
     "protocol": "Aave",
     "chain": "Ethereum",
-    "tvl": "1790.435664254650633397"
+    "tvl": "1790.435685117186696064"
   },
   {
     "protocol": "Asymmetry",
@@ -17,12 +17,12 @@
   {
     "protocol": "Curve",
     "chain": "Ethereum",
-    "tvl": "1168.719710372711964908"
+    "tvl": "1184.144838054500577914"
   },
   {
     "protocol": "Gearbox",
     "chain": "Ethereum",
-    "tvl": "0.303916007103411704"
+    "tvl": "0.303925056209839509"
   },
   {
     "protocol": "Merkl",
@@ -37,22 +37,22 @@
   {
     "protocol": "Uniswap",
     "chain": "Ethereum",
-    "tvl": "90.455570303175976986"
+    "tvl": "77.19602082164656655"
   },
   {
     "protocol": "Yield Basis",
     "chain": "Ethereum",
-    "tvl": "986.217794208479286569"
+    "tvl": "1001.620832963355095842"
   },
   {
     "protocol": "Aave",
     "chain": "Arbitrum",
-    "tvl": "21.278968776455752073"
+    "tvl": "20.921415424693671515"
   },
   {
     "protocol": "Curve",
     "chain": "Arbitrum",
-    "tvl": "17.567851537457789885"
+    "tvl": "17.666593397185289885"
   },
   {
     "protocol": "Nerite",
@@ -62,22 +62,22 @@
   {
     "protocol": "Uniswap",
     "chain": "Arbitrum",
-    "tvl": "16.571099356455986616"
+    "tvl": "16.805906776647940553"
   },
   {
     "protocol": "Aave",
     "chain": "Base",
-    "tvl": "13.767015674170969332"
+    "tvl": "13.788591348237438186"
   },
   {
     "protocol": "Aerodrome",
     "chain": "Base",
-    "tvl": "15.23605740634592917"
+    "tvl": "15.276178251912651385"
   },
   {
     "protocol": "Curve",
     "chain": "Base",
-    "tvl": "6.169077245928400224"
+    "tvl": "2.450787105049023513"
   },
   {
     "protocol": "Curve",
@@ -87,7 +87,7 @@
   {
     "protocol": "Uniswap",
     "chain": "Optimism",
-    "tvl": "0.29009321922893037"
+    "tvl": "0.292383508249842156"
   },
   {
     "protocol": "Velodrome",
@@ -97,7 +97,7 @@
   {
     "protocol": "Ekubo",
     "chain": "Starknet",
-    "tvl": "27.889026398355247204"
+    "tvl": "27.913266918782918346"
   },
   {
     "protocol": "Endur",
