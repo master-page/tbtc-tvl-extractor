@@ -2,7 +2,7 @@
   {
     "protocol": "Aave",
     "chain": "Ethereum",
-    "tvl": "1803.577114277739028489"
+    "tvl": "1803.616846387403212539"
   },
   {
     "protocol": "Asymmetry",
@@ -17,12 +17,12 @@
   {
     "protocol": "Curve",
     "chain": "Ethereum",
-    "tvl": "1138.450956595831955747"
+    "tvl": "1141.872645444124357828"
   },
   {
     "protocol": "Gearbox",
     "chain": "Ethereum",
-    "tvl": "0.303952249999204506"
+    "tvl": "0.303961299105632311"
   },
   {
     "protocol": "Merkl",
@@ -37,22 +37,22 @@
   {
     "protocol": "Uniswap",
     "chain": "Ethereum",
-    "tvl": "121.216031382880470998"
+    "tvl": "118.576313713618267892"
   },
   {
     "protocol": "Yield Basis",
     "chain": "Ethereum",
-    "tvl": "949.562158847025801219"
+    "tvl": "953.773285799291790486"
   },
   {
     "protocol": "Aave",
     "chain": "Arbitrum",
-    "tvl": "21.007208153964555722"
+    "tvl": "21.007208153964555721"
   },
   {
     "protocol": "Curve",
     "chain": "Arbitrum",
-    "tvl": "18.681073783219774807"
+    "tvl": "18.387099656023074509"
   },
   {
     "protocol": "Nerite",
@@ -62,22 +62,22 @@
   {
     "protocol": "Uniswap",
     "chain": "Arbitrum",
-    "tvl": "10.126506592937844109"
+    "tvl": "9.836763746798159278"
   },
   {
     "protocol": "Aave",
     "chain": "Base",
-    "tvl": "13.242539337433028683"
+    "tvl": "13.240632176946413556"
   },
   {
     "protocol": "Aerodrome",
     "chain": "Base",
-    "tvl": "15.790661667443537905"
+    "tvl": "15.479177835520027045"
   },
   {
     "protocol": "Curve",
     "chain": "Base",
-    "tvl": "2.585666862162294777"
+    "tvl": "5.965435142579967222"
   },
   {
     "protocol": "Curve",
@@ -87,7 +87,7 @@
   {
     "protocol": "Uniswap",
     "chain": "Optimism",
-    "tvl": "0.297012142921976074"
+    "tvl": "0.389109625647043159"
   },
   {
     "protocol": "Velodrome",
@@ -97,7 +97,7 @@
   {
     "protocol": "Ekubo",
     "chain": "Starknet",
-    "tvl": "30.721587131701414678"
+    "tvl": "31.294524715807486881"
   },
   {
     "protocol": "Endur",
