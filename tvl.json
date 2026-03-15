@@ -2,7 +2,7 @@
   {
     "protocol": "Aave",
     "chain": "Ethereum",
-    "tvl": "1846.750405888165357311"
+    "tvl": "1847.03126886491549949"
   },
   {
     "protocol": "Asymmetry",
@@ -17,12 +17,12 @@
   {
     "protocol": "Curve",
     "chain": "Ethereum",
-    "tvl": "1058.25655388381227403"
+    "tvl": "1108.334557916527323998"
   },
   {
     "protocol": "Gearbox",
     "chain": "Ethereum",
-    "tvl": "0.303979342056769276"
+    "tvl": "0.303988388651300777"
   },
   {
     "protocol": "Merkl",
@@ -37,22 +37,22 @@
   {
     "protocol": "Uniswap",
     "chain": "Ethereum",
-    "tvl": "73.557832793119973731"
+    "tvl": "56.760591425858025445"
   },
   {
     "protocol": "Yield Basis",
     "chain": "Ethereum",
-    "tvl": "930.551642233670577207"
+    "tvl": "931.068773909185452642"
   },
   {
     "protocol": "Aave",
     "chain": "Arbitrum",
-    "tvl": "19.546929853263604265"
+    "tvl": "19.369164473601869113"
   },
   {
     "protocol": "Curve",
     "chain": "Arbitrum",
-    "tvl": "17.70111122503829914"
+    "tvl": "17.073606378607179245"
   },
   {
     "protocol": "Nerite",
@@ -62,22 +62,22 @@
   {
     "protocol": "Uniswap",
     "chain": "Arbitrum",
-    "tvl": "9.480427438467344097"
+    "tvl": "9.163489205614070885"
   },
   {
     "protocol": "Aave",
     "chain": "Base",
-    "tvl": "11.092083778690081129"
+    "tvl": "11.091918147747817356"
   },
   {
     "protocol": "Aerodrome",
     "chain": "Base",
-    "tvl": "15.32612369650760063"
+    "tvl": "15.157112071018752289"
   },
   {
     "protocol": "Curve",
     "chain": "Base",
-    "tvl": "2.485856591160251786"
+    "tvl": "2.397887098728811961"
   },
   {
     "protocol": "Curve",
@@ -87,7 +87,7 @@
   {
     "protocol": "Uniswap",
     "chain": "Optimism",
-    "tvl": "0.396733895185924866"
+    "tvl": "0.275800727281845643"
   },
   {
     "protocol": "Velodrome",
@@ -97,7 +97,7 @@
   {
     "protocol": "Ekubo",
     "chain": "Starknet",
-    "tvl": "28.992312560649471121"
+    "tvl": "27.400919850686365463"
   },
   {
     "protocol": "Endur",
