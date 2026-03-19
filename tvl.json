@@ -2,7 +2,7 @@
   {
     "protocol": "Aave",
     "chain": "Ethereum",
-    "tvl": "1851.336790052832339513"
+    "tvl": "1854.616445595299445286"
   },
   {
     "protocol": "Asymmetry",
@@ -12,17 +12,17 @@
   {
     "protocol": "Compound",
     "chain": "Ethereum",
-    "tvl": "528.271524423470404188"
+    "tvl": "527.082686082540304188"
   },
   {
     "protocol": "Curve",
     "chain": "Ethereum",
-    "tvl": "1050.059441924793540422"
+    "tvl": "-1"
   },
   {
     "protocol": "Gearbox",
     "chain": "Ethereum",
-    "tvl": "0.304015584952562077"
+    "tvl": "-1"
   },
   {
     "protocol": "Merkl",
@@ -37,22 +37,22 @@
   {
     "protocol": "Uniswap",
     "chain": "Ethereum",
-    "tvl": "77.706417034913943561"
+    "tvl": "49.18737275237261367"
   },
   {
     "protocol": "Yield Basis",
     "chain": "Ethereum",
-    "tvl": "863.7334920207316025"
+    "tvl": "-1"
   },
   {
     "protocol": "Aave",
     "chain": "Arbitrum",
-    "tvl": "20.135769480101634914"
+    "tvl": "20.15329974736920632"
   },
   {
     "protocol": "Curve",
     "chain": "Arbitrum",
-    "tvl": "17.236936184915105792"
+    "tvl": "16.979384371020720917"
   },
   {
     "protocol": "Nerite",
@@ -62,22 +62,22 @@
   {
     "protocol": "Uniswap",
     "chain": "Arbitrum",
-    "tvl": "9.183823149376857299"
+    "tvl": "9.052554478214989193"
   },
   {
     "protocol": "Aave",
     "chain": "Base",
-    "tvl": "10.913565859926538493"
+    "tvl": "10.913579843797922304"
   },
   {
     "protocol": "Aerodrome",
     "chain": "Base",
-    "tvl": "16.621713416462980837"
+    "tvl": "16.078621269801883838"
   },
   {
     "protocol": "Curve",
     "chain": "Base",
-    "tvl": "0.00008708736215195"
+    "tvl": "3.183547093015113913"
   },
   {
     "protocol": "Curve",
@@ -87,7 +87,7 @@
   {
     "protocol": "Uniswap",
     "chain": "Optimism",
-    "tvl": "0.262747715502790722"
+    "tvl": "0.413447999639146682"
   },
   {
     "protocol": "Velodrome",
@@ -97,7 +97,7 @@
   {
     "protocol": "Ekubo",
     "chain": "Starknet",
-    "tvl": "26.498858058270296698"
+    "tvl": "25.186728204982495211"
   },
   {
     "protocol": "Endur",
