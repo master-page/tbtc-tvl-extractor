@@ -1,100 +1,100 @@
 {
   "metadata": {
-    "timestamp": "2026-09-17T13:00:59.542Z",
+    "timestamp": "2026-09-18T12:39:58.940Z",
     "version": "1.0.0",
-    "runId": "fa483967-bd03-4be8-8d80-93b76b55c149"
+    "runId": "c2514578-b445-4ec2-938a-7279fb92992e"
   },
   "chains": {
     "ethereum": {
-      "totalTvl": "1872974304272423914274",
+      "totalTvl": "1880095758522344031056",
       "protocols": [
         {
           "name": "Aave V3",
-          "tvl": "1721777124705832105646",
-          "timestamp": "2026-09-17T12:58:42.311Z",
+          "tvl": "1725175939713420522524",
+          "timestamp": "2026-09-18T12:37:40.475Z",
           "source": "subgraph"
         },
         {
           "name": "Compound",
           "tvl": "88366295926871521287",
-          "timestamp": "2026-09-17T12:59:05.398Z",
+          "timestamp": "2026-09-18T12:37:51.060Z",
           "source": "subgraph"
         },
         {
           "name": "Spark Lend",
           "tvl": "20851732053705238424",
-          "timestamp": "2026-09-17T13:00:23.593Z",
+          "timestamp": "2026-09-18T12:39:16.831Z",
           "source": "subgraph"
         },
         {
           "name": "Uniswap V3",
-          "tvl": "41979151586015048917",
-          "timestamp": "2026-09-17T13:00:23.751Z",
+          "tvl": "45701790828346748821",
+          "timestamp": "2026-09-18T12:39:16.950Z",
           "source": "subgraph"
         }
       ]
     },
     "arbitrum": {
-      "totalTvl": "35533588174289516124",
+      "totalTvl": "35579026416244408819",
       "protocols": [
         {
           "name": "Aave V3",
-          "tvl": "22592926851121180642",
-          "timestamp": "2026-09-17T13:00:33.511Z",
+          "tvl": "22593042987390648463",
+          "timestamp": "2026-09-18T12:39:27.107Z",
           "source": "subgraph"
         },
         {
           "name": "Curve",
           "tvl": "7733254057790389666",
-          "timestamp": "2026-09-17T13:00:33.933Z",
-          "blockNumber": 506102456,
+          "timestamp": "2026-09-18T12:39:28.911Z",
+          "blockNumber": 506438589,
           "source": "rpc"
         },
         {
           "name": "Uniswap V3",
-          "tvl": "5207407265377945816",
-          "timestamp": "2026-09-17T13:00:34.167Z",
+          "tvl": "5252729371063370690",
+          "timestamp": "2026-09-18T12:39:29.091Z",
           "source": "subgraph"
         }
       ]
     },
     "base": {
-      "totalTvl": "22334457433140945603",
+      "totalTvl": "22559837894211005226",
       "protocols": [
         {
           "name": "Aave V3",
-          "tvl": "5851642253825039643",
-          "timestamp": "2026-09-17T13:00:34.394Z",
+          "tvl": "5811004589070293399",
+          "timestamp": "2026-09-18T12:39:29.285Z",
           "source": "subgraph"
         },
         {
           "name": "Aerodrome",
-          "tvl": "15040251911777921020",
-          "timestamp": "2026-09-17T13:00:34.630Z",
+          "tvl": "15348221644777208945",
+          "timestamp": "2026-09-18T12:39:29.429Z",
           "source": "subgraph"
         },
         {
           "name": "Curve",
-          "tvl": "1442563267537984940",
-          "timestamp": "2026-09-17T13:00:45.000Z",
-          "blockNumber": 51430348,
+          "tvl": "1400611660363502882",
+          "timestamp": "2026-09-18T12:39:43.011Z",
+          "blockNumber": 51472917,
           "source": "rpc"
         }
       ]
     },
     "optimism": {
-      "totalTvl": "241368375597929006",
+      "totalTvl": "238991374582941578",
       "protocols": [
         {
           "name": "Curve",
           "tvl": "0",
-          "timestamp": "2026-09-17T13:00:45.260Z",
+          "timestamp": "2026-09-18T12:39:43.761Z",
           "source": "rpc"
         },
         {
           "name": "Uniswap V3",
-          "tvl": "241368375597929006",
-          "timestamp": "2026-09-17T13:00:45.737Z",
+          "tvl": "238991374582941578",
+          "timestamp": "2026-09-18T12:39:44.617Z",
           "source": "subgraph"
         }
       ]
@@ -105,45 +105,45 @@
         {
           "name": "Endur",
           "tvl": "0",
-          "timestamp": "2026-09-17T13:00:58.661Z",
+          "timestamp": "2026-09-18T12:39:57.397Z",
           "blockNumber": 0,
           "source": "rpc"
         },
         {
           "name": "Vesu",
           "tvl": "0",
-          "timestamp": "2026-09-17T13:00:58.787Z",
+          "timestamp": "2026-09-18T12:39:57.617Z",
           "blockNumber": 0,
           "source": "rpc"
         }
       ]
     },
     "sui": {
-      "totalTvl": "2160714280000000000",
+      "totalTvl": "1789949700000000000",
       "protocols": [
         {
           "name": "AlphaLend",
           "tvl": "0",
-          "timestamp": "2026-09-17T13:00:58.851Z",
+          "timestamp": "2026-09-18T12:39:57.797Z",
           "source": "rpc"
         },
         {
           "name": "Bucket",
           "tvl": "5771320000000000",
-          "timestamp": "2026-09-17T13:00:58.880Z",
+          "timestamp": "2026-09-18T12:39:57.876Z",
           "source": "rpc"
         },
         {
           "name": "Ember",
-          "tvl": "2154942960000000000",
-          "timestamp": "2026-09-17T13:00:59.540Z",
+          "tvl": "1784178380000000000",
+          "timestamp": "2026-09-18T12:39:58.938Z",
           "source": "api"
         }
       ]
     }
   },
   "summary": {
-    "totalTvl": "1933244432535452305007",
+    "totalTvl": "1940263563907382386679",
     "successRate": 1,
     "protocolCount": 11,
     "chainCount": 6
